@@ -1,0 +1,42 @@
+html {
+	font-size: 100.01%;
+}
+html,body {
+	height: 100%;
+}
+body {
+	font: .8125em/1.5 Tahoma, Verdana, Geneva, Arial, Helvetica, sans-serif;
+	background: #fff;
+	color: #333;
+}
+header,
+nav,
+section,
+article,
+aside,
+footer {
+	display: block;
+}
+a:hover {
+	color: #722;
+}
+p {
+	margin: 0 0 1em;
+}
+header {
+	color: #007e99;
+	font-size: 2.5em;
+	padding: 20px 50px
+}
+header span {
+	color: #722;
+}
+nav {
+	font-size: 1.5em;
+	margin: 5px 0;
+	padding: 20px 50px
+}
+nav li {
+	display: inline;
+	margin: 0 15px
+}
